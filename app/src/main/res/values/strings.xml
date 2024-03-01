@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppFinanzas</string>
+    <string name="txtOn">ON</string>
+    <string name="txtOff">OFF</string>
+</resources>
